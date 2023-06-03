@@ -1,0 +1,31 @@
+{8989} -- {ady has joined the chat!}
+{8989} -- {[04-08-2023 16:15:37][ady]: ok}
+{8989} -- {ady has joined the chat!}
+{8989} -- {freer has joined the chat!}
+{8989} -- {[04-08-2023 16:26:17][freer]: alo}
+{8989} -- {[04-08-2023 16:26:26][ady]: ok}
+{8989} -- {freer has changed name to -> adys}
+{8989} -- {new has joined the chat!}
+{8989} -- {[04-08-2023 16:26:32][new]: ?}
+{8989} -- {ady has joined the chat!}
+{8989} -- {freer has joined the chat!}
+{8989} -- {[04-08-2023 16:29:21][freer]: alo}
+{8989} -- {[04-08-2023 16:29:19][ady]: ok}
+{8989} -- {ady has left the chat...}
+{8989} -- {freer has left the chat...}
+{8989} -- {ady has joined the chat!}
+{8989} -- {free has joined the chat!}
+{8989} -- {free has left the chat...}
+{8989} -- {ady has joined the chat!}
+{8989} -- {free has joined the chat!}
+{8989} -- {free has left the chat...}
+{8989} -- {ady has left the chat...}
+{8989} -- {ady has joined the chat!}
+{8989} -- {123 has joined the chat!}
+{8989} -- {[04-08-2023 16:34:09][ady]: alo}
+{8989} -- {[04-08-2023 16:34:13][123]: ok}
+{8989} -- {123 has changed name to -> adys}
+{8989} -- {new has joined the chat!}
+{8989} -- {new has left the chat...}
+{8989} -- {ady has left the chat...}
+{8989} -- {adys has left the chat...}
